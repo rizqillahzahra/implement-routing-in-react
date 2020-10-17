@@ -1,0 +1,99 @@
+.App {
+  text-align: center;
+}
+
+.Identitas {
+  text-align: center;
+}
+
+.ParentBox {
+  width: 70%;
+  overflow: hidden;
+  margin: auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  background-color:navajowhite;
+  border-style: solid;
+  border-width: small;
+  border-radius: 5px;
+}
+
+.ParentBox h2 {
+  text-align: center;
+}
+
+.ParentBox h2, h3, h4 {
+  margin-left: 80px;
+}
+
+.ParentBox .Tabel h3 {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.header {
+  background-color: brown;
+  text-align: center;
+}
+
+.menu {
+  display: inline-block;
+  padding: 20px;
+  color: white;
+}
+
+.menu:hover {
+  background-color: white;
+  color: tomato;
+}
+
+img {
+  text-align: center;
+  display: block;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  width: 20%;
+}
+
+.Foto {
+  margin-top: 10px;
+}
+
+.Capture img {
+  text-align: center;
+  display: block;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  width: 40%;
+  border-style: solid;
+  border-width: small;
+  border-radius: 5px;
+}
+
+.ItemInterest {
+  text-align: center;
+  display: -ms-inline-flexbox;
+  border-style: dashed;
+  border-width: 1px;
+  border-radius: 5px; 
+  border-color: brown;
+}
+
+.DetailKontak {
+  text-align: initial;
+  margin-left: 20px; 
+  margin-bottom: 20px;
+  margin-top: 20px;
+  color:brown;
+  opacity: 90%;
+}
+
+.Tabel {
+  text-align: center;
+  border-style: solid;
+  border-width: 2px;
+  border-color:brown;
+  margin: 10px;
+}
